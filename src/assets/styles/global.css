@@ -1,0 +1,50 @@
+:root {
+  font-size: 60%;
+
+  --color-background: #222222;
+  --color-line: #333333;
+  --color-primary: hsl(43, 77%, 62%);
+  --color-text: #f0f0f7;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100vh;
+}
+
+body {
+  background: var(--color-background);
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body,
+input,
+button,
+textarea {
+  font: 500 1.6rem Poppins;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  width: 90vw;
+  max-width: 700px;
+}
+
+@media (min-width: 700px) {
+  :root {
+    font-size: 62.5%;
+  }
+}
