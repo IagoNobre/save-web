@@ -41,14 +41,13 @@ const Privacy: React.FC = () => {
             perfil e situação acadêmica) são disponibilizados para nós através
             do SUAP – Sistema Unificado de Administração Pública. Ficam cientes
             os usuários de que a senha fornecida é devidamente criptografada e
-            seu perfil na plataforma
-            <strong>NÃO</strong> estará disponível para demais usuários, sendo
-            assim, os dados coletados só serão mostrados para o dono das
-            informações ou para informações internas (SEÇÃO 7).
+            seu perfil na plataforma <strong>NÃO</strong> estará disponível para
+            demais usuários, sendo assim, os dados coletados só serão mostrados
+            para o dono das informações ou para informações internas (SEÇÃO 7).
             <br />
             <br />• Por intermédio de terceiro: a plataforma SAVE recebe dados a
             partir do SUAP – Sistema Unificado de Administração Pública. Quando
-            um usuário faz login com o seu perfil os dados são disponibilizados
+            um usuário faz login com o seu perfil, os dados são disponibilizados
             pelo Sistema, cabe-se dizer que a utilização desses dados é
             autorizada previamente pelos usuários junto ao terceiro em questão.
             <h3>
@@ -81,13 +80,10 @@ const Privacy: React.FC = () => {
             de notificações e lista de tarefas modificáveis, possibilitando um
             maior desenvolvimento acadêmico.
             <br />
-            <br />
-            • Acessibilidade: disponibilizar as informações de forma mais
+            <br />• Acessibilidade: disponibilizar as informações de forma mais
             acessível ao usuário, possibilitando a criação de serviços que
-            ajudem e simplifique o acesso as informações. O tratamento de dados
+            ajudem e simplifiquem o acesso as informações. O tratamento de dados
             pessoais para finalidades não previstas nesta Política de
-            <br />
-            <br />
             Privacidade somente ocorrerá mediante comunicação prévia ao usuário,
             de modo que os direitos e obrigações aqui previstos permanecem
             aplicáveis.
@@ -127,8 +123,8 @@ const Privacy: React.FC = () => {
             O compartilhamento de dados do usuário ocorre apenas com os dados
             referentes a turma e e-mail pessoal, para a construção de gráficos e
             informações referente a usabilidade da plataforma.
-            <br /> Os dados do perfil do usuário
-            <strong>NÃO</strong> são compartilhados publicamente.
+            <br /> Os dados do perfil do usuário <strong>NÃO</strong> são
+            compartilhados publicamente.
             <br />
             Os dados pessoais <strong>NÃO</strong> podem ser compartilhados com
             terceiros.
@@ -141,9 +137,9 @@ const Privacy: React.FC = () => {
             Privacidade. <br />O usuário, ao entrar, manifesta conhecer e pode
             exercitar seus direitos de cancelar seu cadastro, acessar e
             atualizar seus dados pessoais e garante a veracidade das informações
-            por ele por ele disponibilizadas. <br />O usuário tem direito de
-            retirar o seu consentimento a qualquer tempo, para tanto deve entrar
-            em contato através do e-mail contato.appsave@gmail.com.
+            por ele disponibilizadas. <br />O usuário tem direito de seu
+            consentimento a qualquer tempo, para tanto deve entrar em contato
+            através do e-mail contato.appsave@gmail.com.
             <h3>
               SEÇÃO 9 <br /> ALTERAÇÕES PARA ESSA POLÍTICA DE PRIVACIDADE
             </h3>
@@ -153,7 +149,7 @@ const Privacy: React.FC = () => {
             revise-a com frequência.
             <br /> As alterações e esclarecimentos vão surtir efeito
             imediatamente após sua publicação na plataforma. Quando realizadas
-            alterações os usuários serão notificados. Ao utilizar o serviço ou
+            alterações, os usuários serão notificados. Ao utilizar o serviço ou
             fornecer informações pessoais após eventuais modificações, o usuário
             e visitante demonstra sua concordância com as novas normas.
           </p>
