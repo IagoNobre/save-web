@@ -51,6 +51,7 @@ const Privacy: React.FC = () => {
             pelo Sistema, cabe-se dizer que a utilização desses dados é
             autorizada previamente pelos usuários junto ao terceiro em questão.
             <h3>
+              SEÇÃO 3
               <br /> QUAIS DADOS PESSOAIS RECOLHEMOS?
             </h3>
             <br />
