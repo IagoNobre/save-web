@@ -142,7 +142,19 @@ const Privacy: React.FC = () => {
             consentimento a qualquer tempo, para tanto deve entrar em contato
             através do e-mail contato.appsave@gmail.com.
             <h3>
-              SEÇÃO 9 <br /> ALTERAÇÕES PARA ESSA POLÍTICA DE PRIVACIDADE
+              SEÇÃO 9 <br /> NOTIFICAÇÕES E ACESSO PERIÓDICO DOS DADOS
+            </h3>
+            <br />
+            Ao autorizar as notificações escolares dentro do aplicativo, o usuário
+            permite o acesso periódico dos seus dados, com o objetivo de buscar
+            alterações e notificá-las. Vale ressaltar que a verificação dos dados
+            é automática e virtual, feita pelo nosso servidor, logo estas informações
+            não serão disponibilizadas ou acessadas por membros de nossa equipe.
+            <br /> Após autorizado o usuário tem a possibilidade de desativar quando
+            quiser, a desativação poderá ser feita dentro do próprio aplicativo na aba
+            "Perfil". Ao desativar o acesso periódico é desativado automaticamente.
+            <h3>
+              SEÇÃO 10 <br /> ALTERAÇÕES PARA ESSA POLÍTICA DE PRIVACIDADE
             </h3>
             <br />
             Reservamos o direito de modificar essa Política de Privacidade a
